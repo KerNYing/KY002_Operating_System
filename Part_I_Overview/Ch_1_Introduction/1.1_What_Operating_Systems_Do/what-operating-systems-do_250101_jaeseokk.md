@@ -1,6 +1,6 @@
-## What Operating Systems Do 🇰🇷 🇺🇸
+## What Operating Systems Do :kr: :🇺🇸:
 
-🇰🇷 🇺🇸
+:kr: :🇺🇸:
 
 - [x] 1.1.0 Intro
 - [ ] 1.1.1 User View
