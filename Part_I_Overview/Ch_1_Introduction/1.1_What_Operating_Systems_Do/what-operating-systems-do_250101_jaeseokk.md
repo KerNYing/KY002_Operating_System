@@ -1,7 +1,8 @@
-## What Operating Systems Do (in &#x1F1FA;&#x1F1F8;)
+## What Operating Systems Do 
+in &#x1F1FA;&#x1F1F8;
 
 - [x] 1.1.0 Intro
-- [ ] 1.1.1 User View
+- [x] 1.1.1 User View
 - [ ] 1.1.2 System View
 - [ ] 1.1.3 Defining Operating Systems 
 
@@ -24,9 +25,14 @@
 ### User View
 The user's view of the computer varies according to the interface being used.
 
-Laptop or PC consisting of a monitor, keyboard, and mouse is designed for one user to monopolize its resources. The goal is to maximize the work that the user is performing. 
+Laptop or PC consisting of a monitor, keyboard, and mouse is designed for one user to monopolize its resources. The goal is to maximize the work that the user is performing. In this case, the OS is designed mostly for **ease of use**, with some attention paid to performance and security and none paid to **resource utilization**
+
+Many users interact with mobile devices featuring a **touch screen**, where they press and swipe their fingers across the screen, as well as **voice recognition** interfaces.
+
+Some computers, such as **embedded computers**, have little or no user view. They may have numeric keypads and status indicators with lights but are primarily designed to run without user intervention
 
 ### System View
+
 
 
 ### Defining Operating Systems
