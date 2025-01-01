@@ -1,12 +1,12 @@
-## What Operating Systems Do 
+## What Operating Systems Do (in &#x1F1FA;&#x1F1F8;)
 
 - [x] 1.1.0 Intro
 - [ ] 1.1.1 User View
 - [ ] 1.1.2 System View
 - [ ] 1.1.3 Defining Operating Systems 
 
-&#x1F1F0;&#x1F1F7; 한국  
-&#x1F1FA;&#x1F1F8; 미국
+<!-- &#x1F1F0;&#x1F1F7; 한국  
+&#x1F1FA;&#x1F1F8; 미국 -->
 
 ### A computer system can be divided roughly into four components
  - Hardware
