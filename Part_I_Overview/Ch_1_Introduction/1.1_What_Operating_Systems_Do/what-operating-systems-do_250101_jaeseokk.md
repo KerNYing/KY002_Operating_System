@@ -3,7 +3,7 @@ in &#x1F1FA;&#x1F1F8;
 
 - [x] 1.1.0 Intro
 - [x] 1.1.1 User View
-- [ ] 1.1.2 System View
+- [x] 1.1.2 System View
 - [ ] 1.1.3 Defining Operating Systems 
 
 <!-- &#x1F1F0;&#x1F1F7; 한국  
@@ -33,6 +33,10 @@ Some computers, such as **embedded computers**, have little or no user view. The
 
 ### System View
 
+From the computer's point of view, the operating system functions as a **resource allocator**,
+managing resources such as CPU time, memory space, storage, and I/O devices. It determines how to allocate these resources effectively. 
+
+Alternatively, the operating system can be viewed as a **control program** that oversees user program execution to prevent errors and improper use of the system.
 
 
 ### Defining Operating Systems
