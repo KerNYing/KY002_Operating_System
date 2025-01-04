@@ -4,7 +4,7 @@ in &#x1F1FA;&#x1F1F8;
 - [x] 1.1.0 Intro
 - [x] 1.1.1 User View
 - [x] 1.1.2 System View
-- [ ] 1.1.3 Defining Operating Systems 
+- [x] 1.1.3 Defining Operating Systems 
 
 <!-- &#x1F1F0;&#x1F1F7; 한국  
 &#x1F1FA;&#x1F1F8; 미국 -->
