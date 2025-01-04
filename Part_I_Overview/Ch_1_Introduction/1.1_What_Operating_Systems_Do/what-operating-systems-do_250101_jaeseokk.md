@@ -40,3 +40,18 @@ Alternatively, the operating system can be viewed as a **control program** that 
 
 
 ### Defining Operating Systems
+
+The term *operating system* covers many roles and functions.
+
+**Moore's Law** predicted that the number of transistors on an integrated circuit would double every 18months, and that prediction has held true.
+
+The operating system is the one program running at all times on the computer - usually called the **kernel**.
+
+Along with the kernel, there are two other types of programs
+- **system program**: associated with the operating system but are not necessarily part of the kernel
+- **application program**: include all programs not associated with the operation of the system.
+
+
+Mobile operating systems include not only a core kernel but also **middleware** - a set of software frameworks that procide additional services to application developers.
+
+In summary, the operating system includes the always running kernel, middleware frameworks that ease application development and provide features, ans system programs that aid in managing the system while it is running.
